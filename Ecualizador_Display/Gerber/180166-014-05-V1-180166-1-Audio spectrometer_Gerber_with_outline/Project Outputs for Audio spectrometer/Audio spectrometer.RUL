@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\sunil\Desktop\Elektor_Gerber\projects batch4\180166-1-Audio spectrometer altium esskay\180166-1-Audio spectrometer\Audio spectrometer.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
